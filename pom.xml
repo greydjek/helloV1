@@ -4,6 +4,10 @@
   <groupId>serverCommon</groupId>
   <artifactId>helloVersion</artifactId>
   <packaging>war</packaging>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
   <version>1.0-SNAPSHOT</version>
   <name>helloVersion Maven Webapp</name>
   <url>http://maven.apache.org</url>
